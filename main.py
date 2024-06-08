@@ -44,7 +44,7 @@ def annotate_image(image, result):
     return image
 
 if __name__ == "__main__":
-    image_path = 'Genova.png'  # Update the image path if needed
+    image_path = 'Genova.png'
     image = load_image(image_path)
     result = extract_text(image_path)
     extracted_data = parse_results(result)

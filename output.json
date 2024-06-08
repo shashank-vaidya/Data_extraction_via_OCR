@@ -1,0 +1,152 @@
+[
+    {
+        "text": "SP 35",
+        "confidence": 0.9286750555038452,
+        "position": {
+            "left": 64,
+            "top": 53,
+            "width": 32,
+            "height": 14
+        }
+    },
+    {
+        "text": "A10",
+        "confidence": 0.9804954528808594,
+        "position": {
+            "left": 33,
+            "top": 95,
+            "width": 22,
+            "height": 12
+        }
+    },
+    {
+        "text": "Camaldoli",
+        "confidence": 0.9610522389411926,
+        "position": {
+            "left": 594,
+            "top": 158,
+            "width": 56,
+            "height": 14
+        }
+    },
+    {
+        "text": "A7",
+        "confidence": 0.9942327737808228,
+        "position": {
+            "left": 134,
+            "top": 174,
+            "width": 16,
+            "height": 13
+        }
+    },
+    {
+        "text": "A12",
+        "confidence": 0.9840204119682312,
+        "position": {
+            "left": 619,
+            "top": 182,
+            "width": 25,
+            "height": 16
+        }
+    },
+    {
+        "text": "ss1",
+        "confidence": 0.9754377007484436,
+        "position": {
+            "left": 249,
+            "top": 194,
+            "width": 25,
+            "height": 15
+        }
+    },
+    {
+        "text": "Genes",
+        "confidence": 0.9977563619613647,
+        "position": {
+            "left": 286,
+            "top": 220,
+            "width": 68,
+            "height": 27
+        }
+    },
+    {
+        "text": "E80",
+        "confidence": 0.9616991877555847,
+        "position": {
+            "left": 63,
+            "top": 244,
+            "width": 15,
+            "height": 8
+        }
+    },
+    {
+        "text": "Tirreni",
+        "confidence": 0.8696783781051636,
+        "position": {
+            "left": 190,
+            "top": 255,
+            "width": 29,
+            "height": 15
+        }
+    },
+    {
+        "text": "+",
+        "confidence": 0.8917437791824341,
+        "position": {
+            "left": 524,
+            "top": 257,
+            "width": 11,
+            "height": 10
+        }
+    },
+    {
+        "text": "e",
+        "confidence": 0.7518850564956665,
+        "position": {
+            "left": 365,
+            "top": 295,
+            "width": 15,
+            "height": 15
+        }
+    },
+    {
+        "text": "Bacino",
+        "confidence": 0.9942176342010498,
+        "position": {
+            "left": 233,
+            "top": 320,
+            "width": 35,
+            "height": 14
+        }
+    },
+    {
+        "text": "Vecchio",
+        "confidence": 0.9934183955192566,
+        "position": {
+            "left": 233,
+            "top": 338,
+            "width": 39,
+            "height": 17
+        }
+    },
+    {
+        "text": "Porto",
+        "confidence": 0.9970484972000122,
+        "position": {
+            "left": 239,
+            "top": 333,
+            "width": 27,
+            "height": 11
+        }
+    },
+    {
+        "text": "SS1",
+        "confidence": 0.7724652290344238,
+        "position": {
+            "left": 519,
+            "top": 391,
+            "width": 23,
+            "height": 15
+        }
+    }
+]
