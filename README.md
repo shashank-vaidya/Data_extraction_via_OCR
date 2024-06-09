@@ -45,4 +45,3 @@ This repository contains a Python script to extract text from an image using Pad
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
