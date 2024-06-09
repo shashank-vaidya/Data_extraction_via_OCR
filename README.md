@@ -13,13 +13,13 @@ This repository contains a Python script to extract text from an image using Pad
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/shashank-vaidya/Data_extraction_via_OCR.git
+    cd Data_extraction_via_OCR
     ```
 
 2. Install the required packages:
     ```bash
-    pip install opencv-python-headless paddleocr matplotlib
+    pip install -r requirements.txt
     ```
 
 ## Usage
@@ -28,28 +28,11 @@ This repository contains a Python script to extract text from an image using Pad
 
 2. Run the script:
     ```bash
-    python script_name.py
+    python main.py
     ```
 
 3. The extracted text will be saved in `output.json`, and the annotated image will be displayed.
 
-## Script Breakdown
-
-### `load_image(image_path)`
-
-Loads an image from the specified path using OpenCV.
-
-### `extract_text(image_path)`
-
-Uses PaddleOCR to perform OCR on the image and extract text.
-
-### `parse_results(result)`
-
-Parses the OCR results to extract text, confidence levels, and position coordinates. Formats the extracted data into a dictionary.
-
-### `annotate_image(image, result)`
-
-Annotates the original image with rectangles around detected text and overlays the extracted text on the image.
 
 ### Main Function
 
