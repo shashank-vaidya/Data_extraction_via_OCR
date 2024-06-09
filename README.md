@@ -1,6 +1,6 @@
-# Image Text Extraction and Annotation
+# Image Text Extraction via OCR
 
-This repository contains a Python script to extract text from an image using PaddleOCR and annotate the image with the extracted text. The extracted text is saved in a JSON file.
+This repository contains a Python script to extract text from an image using PaddleOCR. The extracted text is saved in a JSON file.
 
 ## Requirements
 
