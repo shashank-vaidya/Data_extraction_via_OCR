@@ -8,8 +8,8 @@ def load_image(image_path):
     return image
 
 def extract_text(image_path):
-    ocr = PaddleOCR(use_angle_cls=True, lang='en')  # Initialize PaddleOCR
-    result = ocr.ocr(image_path, cls=True)  # Perform OCR
+    ocr = PaddleOCR(use_angle_cls=True, lang='en')  
+    result = ocr.ocr(image_path, cls=True)  
     return result
 
 def parse_results(result):
